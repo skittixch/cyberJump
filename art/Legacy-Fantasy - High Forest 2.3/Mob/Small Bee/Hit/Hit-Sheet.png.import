@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cou14drdvgi7y"
-path="res://.godot/imported/Hit-Sheet.png-d0f918d52ad7ed9df7b883eea60b511f.ctex"
+path="res://.godot/imported/Hit-Sheet.png-cb4613c584e056e265fb341ada4346a3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Hit/Hit-Sheet.png"
-dest_files=["res://.godot/imported/Hit-Sheet.png-d0f918d52ad7ed9df7b883eea60b511f.ctex"]
+source_file="res://Art/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Hit/Hit-Sheet.png"
+dest_files=["res://.godot/imported/Hit-Sheet.png-cb4613c584e056e265fb341ada4346a3.ctex"]
 
 [params]
 
