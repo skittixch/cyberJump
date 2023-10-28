@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfggmvh73mt60"
-path="res://.godot/imported/Jump-Start-Sheet.png-164b1df8a83e0808105b3a0da9394cc4.ctex"
+path="res://.godot/imported/Jump-Start-Sheet.png-78c3a7dd30784269fed309afaa6287d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://cyberJump/art/Legacy-Fantasy - High Forest 2.3/Character/Jump-Start/Jump-Start-Sheet.png"
-dest_files=["res://.godot/imported/Jump-Start-Sheet.png-164b1df8a83e0808105b3a0da9394cc4.ctex"]
+source_file="res://art/Legacy-Fantasy - High Forest 2.3/Character/Jump-Start/Jump-Start-Sheet.png"
+dest_files=["res://.godot/imported/Jump-Start-Sheet.png-78c3a7dd30784269fed309afaa6287d1.ctex"]
 
 [params]
 

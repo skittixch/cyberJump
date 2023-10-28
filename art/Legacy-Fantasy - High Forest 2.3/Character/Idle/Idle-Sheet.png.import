@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bykng7r5jmc4n"
-path="res://.godot/imported/Idle-Sheet.png-aae00b36e40ace3ef3f15f19999da886.ctex"
+path="res://.godot/imported/Idle-Sheet.png-dcd646de4de40f173686a31b7f540c67.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://cyberJump/art/Legacy-Fantasy - High Forest 2.3/Character/Idle/Idle-Sheet.png"
-dest_files=["res://.godot/imported/Idle-Sheet.png-aae00b36e40ace3ef3f15f19999da886.ctex"]
+source_file="res://art/Legacy-Fantasy - High Forest 2.3/Character/Idle/Idle-Sheet.png"
+dest_files=["res://.godot/imported/Idle-Sheet.png-dcd646de4de40f173686a31b7f540c67.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyqghwaoonx2j"
-path="res://.godot/imported/walk-Sheet.png-4ea2eeb6e6dbde6fb5911cd534d76740.ctex"
+path="res://.godot/imported/walk-Sheet.png-28f60ac8f7315aa8ceaab0c868ddff72.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://cyberJump/art/Legacy-Fantasy - High Forest 2.3/Mob/Snail/walk-Sheet.png"
-dest_files=["res://.godot/imported/walk-Sheet.png-4ea2eeb6e6dbde6fb5911cd534d76740.ctex"]
+source_file="res://art/Legacy-Fantasy - High Forest 2.3/Mob/Snail/walk-Sheet.png"
+dest_files=["res://.godot/imported/walk-Sheet.png-28f60ac8f7315aa8ceaab0c868ddff72.ctex"]
 
 [params]
 

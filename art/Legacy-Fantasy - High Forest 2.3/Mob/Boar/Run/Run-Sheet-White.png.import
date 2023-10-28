@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkrvhmoo2j2ok"
-path="res://.godot/imported/Run-Sheet-White.png-a55af2eec745397cff05d0844e1856e2.ctex"
+path="res://.godot/imported/Run-Sheet-White.png-fc1e74a42849fc927e0ad35a09870de4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://cyberJump/art/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Run/Run-Sheet-White.png"
-dest_files=["res://.godot/imported/Run-Sheet-White.png-a55af2eec745397cff05d0844e1856e2.ctex"]
+source_file="res://art/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Run/Run-Sheet-White.png"
+dest_files=["res://.godot/imported/Run-Sheet-White.png-fc1e74a42849fc927e0ad35a09870de4.ctex"]
 
 [params]
 
